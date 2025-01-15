@@ -10,4 +10,3 @@ Automated Invoice Reading: Utilizes the Gemini API to parse and extract data fro
 Query Response: Provides answers to any questions related to the content of the invoices.
 Detailed Output: Extracted information includes all relevant invoice details such as line items, total amounts, due dates, and vendor information.
 Ease of Use: Simple interface to upload invoices and receive responses.
-dd
